@@ -52,6 +52,20 @@ Preview the production build
 yarn start
 ```
 
+## About this template
+
+- Custom thirdweb Connect button built with NextUI [Button](https://nextui.org/docs/components/button)
+
+- thirdweb [Bobbie Component](https://portal.thirdweb.com/references/typescript/v5/Blobbie) to generate gradiant based on wallet address
+
+- [`useConnectModal`](https://portal.thirdweb.com/references/typescript/v5/useConnectModal) hook that allows you to open the Connect UI in a Modal to prompt the user to connect wallet.
+
+- [`useWalletDetailsModal`](https://portal.thirdweb.com/react/v5/useWalletDetailsModal) hook to open the Wallet Details Modal that shows various information about the connected wallet and allows users to perform various actions like sending funds, receiving funds, switching networks, Buying tokens, etc.
+
+Custom component found in [`components/navbar.tsx`](https://github.com/thirdweb-example/thirdweb-nextui-org-starter/blob/main/components/navbar.tsx#L87)
+
+
+
 ## Resources
 
 - [Documentation](https://portal.thirdweb.com/typescript/v5)
