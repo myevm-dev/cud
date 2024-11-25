@@ -58,8 +58,8 @@ export const Logo: React.FC<IconSvgProps> = ({
         y2="129.407"
         gradientUnits="userSpaceOnUse"
       >
-        <stop stop-color="#DE35A0" />
-        <stop offset="1" stop-color="#9120AC" />
+        <stop stopColor="#DE35A0" />
+        <stop offset="1" stopColor="#9120AC" />
       </linearGradient>
       <linearGradient
         id="paint1_linear_62_21"
@@ -69,8 +69,8 @@ export const Logo: React.FC<IconSvgProps> = ({
         y2="129.43"
         gradientUnits="userSpaceOnUse"
       >
-        <stop stop-color="#DE35A0" />
-        <stop offset="1" stop-color="#9120AC" />
+        <stop stopColor="#DE35A0" />
+        <stop offset="1" stopColor="#9120AC" />
       </linearGradient>
       <linearGradient
         id="paint2_linear_62_21"
@@ -80,8 +80,8 @@ export const Logo: React.FC<IconSvgProps> = ({
         y2="129.36"
         gradientUnits="userSpaceOnUse"
       >
-        <stop stop-color="#DE35A0" />
-        <stop offset="1" stop-color="#9120AC" />
+        <stop stopColor="#DE35A0" />
+        <stop offset="1" stopColor="#9120AC" />
       </linearGradient>
     </defs>
   </svg>

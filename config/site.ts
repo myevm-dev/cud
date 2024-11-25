@@ -1,31 +1,9 @@
 export type SiteConfig = typeof siteConfig;
 
 export const siteConfig = {
-  name: "thirdweb SDK + NextUI",
-  description: "Make beautiful websites regardless of your design experience.",
+  name: "Cuddle Puddle",
+  description: "/.",
   navItems: [
-    {
-      label: "Home",
-      href: "/",
-    },
-    {
-      label: "Docs",
-      href: "https://portal.thirdweb.com/",
-      target: "_blank",
-      rel: "noopener noreferrer",
-    },
-    {
-      label: "Pricing",
-      href: "https://thirdweb.com/pricing",
-      target: "_blank",
-      rel: "noopener noreferrer",
-    },
-    {
-      label: "Blog",
-      href: "https://blog.thirdweb.com/guides/",
-      target: "_blank",
-      rel: "noopener noreferrer",
-    },
     {
       label: "About",
       href: "https://thirdweb.com/mission",
@@ -68,9 +46,8 @@ export const siteConfig = {
     },
   ],
   links: {
-    github: "https://github.com/thirdweb-example",
-    twitter: "https://x.com/thirdweb",
-    docs: "https://portal.thirdweb.com/",
-    discord: "https://discord.gg/thirdweb",
+    github: "https://github.com/myevm-dev",
+    twitter: "https://x.com/myevmart",
+    discord: "https://apescan.io/address/0xb736fd496c15c7285a0e61d0ae24b6020d0da387",
   },
 };
