@@ -11,15 +11,8 @@ export default function Home() {
   return (
     <section className="flex flex-col items-center justify-center gap-4 py-8 md:py-10">
       <div className="inline-block max-w-xl text-center justify-center">
-        <span className={title()}>Make&nbsp;</span>
-        <span className={title({ color: "violet" })}>beautiful&nbsp;</span>
-        <br />
-        <span className={title()}>
-          web3 dapps regardless of your design experience.
-        </span>
-        <div className={subtitle({ class: "mt-4" })}>
-          With this thirdweb SDK + Next.UI Template.
-        </div>
+        <span className={title()}>.</span>
+
       </div>
 
  
